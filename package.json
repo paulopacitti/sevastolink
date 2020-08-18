@@ -1,0 +1,26 @@
+{
+  "name": "sevastolink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colors.js",
+  "dependencies": {
+    "@themer/iterm": "^2.1.0",
+    "@themer/vscode": "^2.2.1",
+    "themer": "3.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node_modules/.bin/themer -c colors.js -t @themer/iterm -t @themer/vscode -o gen/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulopacitti/sevastolink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulopacitti/sevastolink/issues"
+  },
+  "homepage": "https://github.com/paulopacitti/sevastolink#readme"
+}
