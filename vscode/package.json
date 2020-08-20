@@ -1,7 +1,7 @@
 {
     "name": "sevastolink",
     "displayName": "sevastolink",
-    "description": "Alien Isolation color theme",
+    "description": "A color theme based on 'Alien: Isolation'",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Sevastolink_",
+                "label": "sevastolink",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Sevastolink_-color-theme.json"
+                "path": "./themes/sevastolink-color-theme.json"
             }
         ]
     }
