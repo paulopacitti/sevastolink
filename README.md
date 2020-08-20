@@ -1,4 +1,4 @@
-# sevastolink_ :alien:
+# sevastolink :alien:
 
 ![Sevastolink](https://i.pinimg.com/originals/c1/20/9c/c1209cd7b1c0a30307d7abdb4d58b8df.jpg)
 
@@ -22,4 +22,4 @@ Hex       | RGBA  | HSL |
 - VS Code: not ready yet;
 
 ## Install
-- **Download** in the **releases** section of this repo!
+- **Download** in the **[releases](https://github.com/paulopacitti/sevastolink/releases)** section of this repo!
