@@ -7,8 +7,7 @@
 
 ![Sevastolink](https://raw.githubusercontent.com/paulopacitti/sevastolink/master/design/artwork.png)
 
-- A color theme based on **Sevastolink**, [Sevastopol's](https://alienanthology.fandom.com/wiki/Sevastopol_Station) desktop OS presented in SEGA's "[Alien: Isolation](https://en.wikipedia.org/wiki/Alien:_Isolation)";
-- **This color theme is currently under development!**
+- A color theme based on **Sevastolink**, [Sevastopol's](https://alienanthology.fandom.com/wiki/Sevastopol_Station) desktop OS presented in SEGA's "[Alien: Isolation](https://en.wikipedia.org/wiki/Alien:_Isolation)" :alien:
 
 ## Color Palette :art:
 
@@ -23,8 +22,21 @@ Synthetic Skin    |`#7a807f`       | `rgb(122, 128, 127)` | ![Hypersleep White c
 
 ## Supported Apps :floppy_disk:
 - iTerm: 
+  
   ![iTerm color theme screenshot](https://i.imgur.com/W1f6jDw.png)
-- VS Code:   ![iTerm color theme screenshot](https://raw.githubusercontent.com/paulopacitti/sevastolink/master/design/screenshots/vscode.png)
+- Visual Studio Code: 
+  
+  ![iTerm color theme screenshot](https://raw.githubusercontent.com/paulopacitti/sevastolink/master/design/screenshots/vscode.png)
 
 ## Install :arrow_down:
+### iTerm2
 - **Download** in the **[releases](https://github.com/paulopacitti/sevastolink/releases)** section of this repo!
+### Visual Studio Code
+- **Open** the extensions sidebar on Visual Studio Code;
+- **Search** for `Sevastolink`;
+- Click `Install` to **install** it;
+- **Rate** five-stars if you like it :sparkles:
+
+## Contributing :two_hearts:
+- If you like it, leave your star in this project :star2:
+- If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
