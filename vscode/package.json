@@ -3,6 +3,7 @@
     "publisher": "paulopacitti",
     "displayName": "sevastolink",
     "description": "A color theme based on 'Alien: Isolation'",
+    "repository": "https://github.com/paulopacitti/sevastolink",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"
