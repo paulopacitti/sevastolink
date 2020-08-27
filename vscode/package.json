@@ -5,7 +5,7 @@
     "description": "👽 A color theme based on 'Alien: Isolation'",
     "icon": "icon.png",
     "repository": "https://github.com/paulopacitti/sevastolink",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.48.0"
     },

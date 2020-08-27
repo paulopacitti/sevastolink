@@ -37,6 +37,10 @@ Synthetic Skin    |`#7a807f`       | `rgb(122, 128, 127)` | ![Hypersleep White c
 - Click `Install` to **install** it;
 - **Rate** five-stars if you like it :sparkles:
 
+## Credits :movie_camera:
+- Project started with [themer](https://github.com/mjswensen/themer), if you want to create a color theme, this is a grat tool to start!
+- Artwork made with *[Sevastol Interface](https://www.dafont.com/sevastopol-interface.font)* and [themer](https://github.com/mjswensen/themer) wallpaper generator;
+
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:

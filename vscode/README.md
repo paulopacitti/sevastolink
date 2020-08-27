@@ -21,6 +21,10 @@ Acid Blood      |`#f07826`       | `rgb(240, 120, 38)` | ![Acid Blood color](htt
 Hypersleep White    |`#ccd5d4`       | `rgb(204, 213, 212)` | ![Hypersleep White color](https://raw.githubusercontent.com/paulopacitti/sevastolink/master/design/colors/hypersleep-white.png)
 Synthetic Skin    |`#7a807f`       | `rgb(122, 128, 127)` | ![Hypersleep White color](https://raw.githubusercontent.com/paulopacitti/sevastolink/master/design/colors/synthetic-skin.png)
 
+## Credits 🎥 
+- Project started with [themer](https://github.com/mjswensen/themer), if you want to create a color theme, this is a grat tool to start!
+- Artwork made with *[Sevastol Interface](https://www.dafont.com/sevastopol-interface.font)* and [themer](https://github.com/mjswensen/themer) wallpaper generator;
+
 ## Contributing 💕 
 - If you like it, leave your 5 stars rating ✨
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue in the [repo](https://github.com/paulopacitti/sevastolink) 💟 
